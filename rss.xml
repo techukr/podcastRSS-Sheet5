@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 23 Apr 2026 22:58:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 02:47:43 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -20,5 +20,31 @@
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="News"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45593186/45593186-1773843177681-a5f263850b632.jpg"/>
+			<item>
+            <title><![CDATA[3 Secret Cybercab Shifts We FINALLY See [April 2026]]]></title>
+            <description><![CDATA[<p>In this episode, we uncover the hidden moves shaping the 2026 EV landscape. We break down 3 secret shifts as Tesla officially replaces the Model S and X with its autonomous Cybercab and Optimus robots. Plus, we explore Chevrolet's breakthrough 2026 Equinox EV RS that finally cures range anxiety to rival the Model Y, and we dissect Tesla's uphill battle launching a new 6-seater Model Y L in India amidst steep tariffs. Discover why the EV market is changing forever.</p>]]></description>
+            <guid isPermaLink="false">66435581-a5e8-4c8d-80f6-3d2539bcd6d5</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 02:47:42 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_tesla_model/2026-04-25_Tesla_Model_Audio.mp3" length="17385148" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we uncover the hidden moves shaping the 2026 EV landscape. We break down 3 secret shifts as Tesla officially replaces the Model S and X with its autonomous Cybercab and Optimus robots. Plus, we explore Chevrolet's breakthrough 2026 Equinox EV RS that finally cures range anxiety to rival the Model Y, and we dissect Tesla's uphill battle launching a new 6-seater Model Y L in India amidst steep tariffs. Discover why the EV market is changing forever.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_tesla_model/2026-04-25_Tesla_Model_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Warning: 3 REAL Crypto Scams [April 2026]]]></title>
+            <description><![CDATA[<p>Discover the inner workings of the $15 billion fraud wave devastating American savers. We break down the DOJ Scam Center Strike Force actions, including $700 million in restrained cryptocurrency and crackdowns on forced-labor compounds in Southeast Asia. Plus, learn Fidelity's insights on 3 attack channels—phishing, smishing, and vishing—and the 30-second pause habit that can protect you from 'pig butchering' and voice-cloning threats.</p>]]></description>
+            <guid isPermaLink="false">05447260-581c-4ba4-b431-11a31d3a0a1a</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 02:47:43 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_scam/2026-04-25_scam_Audio.mp3" length="23698421" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover the inner workings of the $15 billion fraud wave devastating American savers. We break down the DOJ Scam Center Strike Force actions, including $700 million in restrained cryptocurrency and crackdowns on forced-labor compounds in Southeast Asia. Plus, learn Fidelity's insights on 3 attack channels—phishing, smishing, and vishing—and the 30-second pause habit that can protect you from 'pig butchering' and voice-cloning threats.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_scam/2026-04-25_scam_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
 	</channel>
 </rss>
