@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 03:31:52 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 07:08:37 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -83,6 +83,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_jp_morgan__crypto_token/2026-04-25_JP_Morgan__Crypto_Token_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 SECRETS why Honor 600 beats expensive flagships ]]></title>
+            <description><![CDATA[<p>We uncover the details behind the newly released Honor 600 and 600 Pro to see if these mid-range smartphones can truly replace your four-figure flagship. With a near-bezelless 120Hz OLED display hitting 8,000 nits, an IP69K rugged rating, a massive 6,800mAh battery, and a 200MP main camera, the Honor 600 series brings serious hardware. We break down its Snapdragon 7 Gen 4 performance, the upgraded AI Image to Video 2.0 capabilities, and why the sub-par haptic feedback might be its only real flaw.</p>]]></description>
+            <guid isPermaLink="false">030e9ad7-2271-408d-9f1d-2bebda1ce69d</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 07:08:37 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_honor_600_series/2026-04-25_HONOR_600_Series_Audio.mp3" length="27267584" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>We uncover the details behind the newly released Honor 600 and 600 Pro to see if these mid-range smartphones can truly replace your four-figure flagship. With a near-bezelless 120Hz OLED display hitting 8,000 nits, an IP69K rugged rating, a massive 6,800mAh battery, and a 200MP main camera, the Honor 600 series brings serious hardware. We break down its Snapdragon 7 Gen 4 performance, the upgraded AI Image to Video 2.0 capabilities, and why the sub-par haptic feedback might be its only real flaw.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_honor_600_series/2026-04-25_HONOR_600_Series_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
