@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 03:31:18 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 03:31:26 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -57,6 +57,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_byd_scam__car_industry/2026-04-25_BYD_SCAM__car_industry_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 PROVEN transformer models [April 2026]]]></title>
+            <description><![CDATA[<p>Explore three breakthroughs in transformer architectures: IBM's Bamba, an attention-state space model overcoming the KV cache bottleneck; Delphi-2M, a generative model predicting human disease trajectories from health records; and the first manually labeled Kashmiri news dataset for fine-tuning LLMs in low-resource settings.</p>]]></description>
+            <guid isPermaLink="false">deb34daf-7521-42e8-a99c-ceb92167590a</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 03:31:26 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_transformers__llm__deep_learning/2026-04-25_Transformers__LLM__Deep_Learning_Audio.mp3" length="15013438" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Explore three breakthroughs in transformer architectures: IBM's Bamba, an attention-state space model overcoming the KV cache bottleneck; Delphi-2M, a generative model predicting human disease trajectories from health records; and the first manually labeled Kashmiri news dataset for fine-tuning LLMs in low-resource settings.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_transformers__llm__deep_learning/2026-04-25_Transformers__LLM__Deep_Learning_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
