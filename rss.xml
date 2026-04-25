@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 03:31:26 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 03:31:52 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -70,6 +70,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_transformers__llm__deep_learning/2026-04-25_Transformers__LLM__Deep_Learning_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 reasons JPMD is the REAL shift [2026 Crypto]]]></title>
+            <description><![CDATA[<p>JPMorgan Chase is redefining digital money with JPMD, a new USD-denominated deposit token. Unlike traditional stablecoins, JPMD brings bank-backed security and potential yield to public blockchains like Base and the Canton Network. We explore how this 24/7 asset enables near-instant institutional settlements, backed by early trials from Mastercard and Coinbase.</p>]]></description>
+            <guid isPermaLink="false">d3f7ab0e-9a90-4d0d-a5b2-e791d0e13dad</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 03:31:52 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_jp_morgan__crypto_token/2026-04-25_JP_Morgan__Crypto_Token_Audio.mp3" length="13199705" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>JPMorgan Chase is redefining digital money with JPMD, a new USD-denominated deposit token. Unlike traditional stablecoins, JPMD brings bank-backed security and potential yield to public blockchains like Base and the Canton Network. We explore how this 24/7 asset enables near-instant institutional settlements, backed by early trials from Mastercard and Coinbase.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_jp_morgan__crypto_token/2026-04-25_JP_Morgan__Crypto_Token_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
