@@ -3,10 +3,10 @@
 	<channel>
 		<title><![CDATA[Le Tech Daily]]></title>
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
-		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml</link>
+		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
 		<lastBuildDate>Sat, 25 Apr 2026 02:47:43 GMT</lastBuildDate>
-		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
 		<language><![CDATA[vi]]></language>
