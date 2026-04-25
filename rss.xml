@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 02:47:43 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Apr 2026 03:31:18 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -44,6 +44,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_scam/2026-04-25_scam_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 HIDDEN BYD zero-mileage scams [Verified]]]></title>
+            <description><![CDATA[<p>Discover the 3 hidden tactics artificially inflating China's auto industry. We dive into BYD's recent production cuts, the 'zero-mileage' export scheme used to fake sales numbers, and how excess car imports in Australia are being weaponized to exploit the NVES carbon credit system for massive profits.</p>]]></description>
+            <guid isPermaLink="false">d564c620-856c-4113-8c7d-c3cc3d2f1690</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 03:31:17 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260425_byd_scam__car_industry/2026-04-25_BYD_SCAM__car_industry_Audio.mp3" length="11505716" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover the 3 hidden tactics artificially inflating China's auto industry. We dive into BYD's recent production cuts, the 'zero-mileage' export scheme used to fake sales numbers, and how excess car imports in Australia are being weaponized to exploit the NVES carbon credit system for massive profits.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260425_byd_scam__car_industry/2026-04-25_BYD_SCAM__car_industry_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
