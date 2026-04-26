@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 04:45:31 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 04:58:55 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -135,6 +135,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_macbook_ultra/2026-04-26_macbook_ultra_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[5 SECRET Roblox Plus perks [April 2026]]]></title>
+            <description><![CDATA[<p>In this episode, we break down the new Roblox Plus subscription launching April 30 for $4.99 a month. We uncover the platform's major perks, including up to 20% discounts on in-game items, free unlimited private servers, and fee-free Robux transfers. We also discuss how creators can earn a 250 Robux monthly bonus per in-game signup, the phase-out of Roblox Premium, and how Samsung Galaxy Store users can unlock a 25% Robux bonus. Finally, we highlight why new parental approval requirements for Robux transfers are a vital safety measure following recent legal incidents of virtual currency exploitation.</p>]]></description>
+            <guid isPermaLink="false">61c46f72-f7c9-4017-a070-6c0c6b002d19</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 04:58:55 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_robux/2026-04-26_Robux_Audio.mp3" length="16672318" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we break down the new Roblox Plus subscription launching April 30 for $4.99 a month. We uncover the platform's major perks, including up to 20% discounts on in-game items, free unlimited private servers, and fee-free Robux transfers. We also discuss how creators can earn a 250 Robux monthly bonus per in-game signup, the phase-out of Roblox Premium, and how Samsung Galaxy Store users can unlock a 25% Robux bonus. Finally, we highlight why new parental approval requirements for Robux transfers are a vital safety measure following recent legal incidents of virtual currency exploitation.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href=""/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
