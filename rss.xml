@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 08:04:33 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 08:16:45 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -174,6 +174,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_phone/2026-04-26_phone_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 facts on the HUGE Nord CE6 [Specs]]]></title>
+            <description><![CDATA[<p>OnePlus is set to launch the ultra-affordable Nord CE6 and CE6 Lite in India on May 7, despite the company's uncertain future in European markets. The Nord CE6 features a massive 8,000mAh battery with 27W reverse wired charging, a Snapdragon 7s Gen 4 processor, and a 1.5K AMOLED display with a 144Hz refresh rate. Meanwhile, the CE6 Lite includes a 7,000mAh battery and a MediaTek Dimensity 7400 Apex chipset. We break down the confirmed specs and what these new mid-range devices mean for the smartphone market.</p>]]></description>
+            <guid isPermaLink="false">f8f09e2f-ba36-4015-9c88-f7b8eb98908d</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 08:16:45 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_oneplus_nord_ce6/2026-04-26_OnePlus_Nord_CE6_Audio.mp3" length="17580753" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>OnePlus is set to launch the ultra-affordable Nord CE6 and CE6 Lite in India on May 7, despite the company's uncertain future in European markets. The Nord CE6 features a massive 8,000mAh battery with 27W reverse wired charging, a Snapdragon 7s Gen 4 processor, and a 1.5K AMOLED display with a 144Hz refresh rate. Meanwhile, the CE6 Lite includes a 7,000mAh battery and a MediaTek Dimensity 7400 Apex chipset. We break down the confirmed specs and what these new mid-range devices mean for the smartphone market.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_oneplus_nord_ce6/2026-04-26_OnePlus_Nord_CE6_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
