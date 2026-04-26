@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 05:16:26 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 08:04:33 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -161,6 +161,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_minecraft/2026-04-26_Minecraft_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[5 ways Gemini Live FIXED smartphones ]]></title>
+            <description><![CDATA[<p>In this episode, we explore the dual reality of smartphones in April 2026. First, we examine how AI tools like Gemini Live are transforming devices into true, effortless assistants by leveraging camera inputs and screen sharing to brainstorm and plan hands-free. Then, we uncover the hidden mental health costs of our 'always on' digital culture, discussing how constant notifications, read receipts, and ghosting lead to cognitive fatigue and social pain.</p>]]></description>
+            <guid isPermaLink="false">17e213db-39d6-4f14-8a82-7cd7499a3ef7</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 08:04:33 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_phone/2026-04-26_phone_Audio.mp3" length="12956452" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we explore the dual reality of smartphones in April 2026. First, we examine how AI tools like Gemini Live are transforming devices into true, effortless assistants by leveraging camera inputs and screen sharing to brainstorm and plan hands-free. Then, we uncover the hidden mental health costs of our 'always on' digital culture, discussing how constant notifications, read receipts, and ghosting lead to cognitive fatigue and social pain.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_phone/2026-04-26_phone_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
