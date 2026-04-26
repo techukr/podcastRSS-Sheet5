@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 00:42:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 04:45:31 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -122,6 +122,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_playstation_digital_games_drm/2026-04-26_playstation_digital_games_drm_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[1 REAL reason MacBook Ultra is delayed ]]></title>
+            <description><![CDATA[<p>Apple's highly anticipated MacBook Ultra is reportedly delayed until 2027 due to an ongoing global DRAM and NAND flash memory shortage. We break down how this supply chain crisis is pushing back the release of the new top-tier laptop and the M5 Mac Studio, while exploring the six major features rumored for the Ultra, including an OLED touchscreen, Dynamic Island, built-in cellular, and the next-generation 2nm M6 chips.</p>]]></description>
+            <guid isPermaLink="false">3c705422-0cbc-4aa4-aa52-87f66f270cfa</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 04:45:31 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_macbook_ultra/2026-04-26_macbook_ultra_Audio.mp3" length="17341262" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Apple's highly anticipated MacBook Ultra is reportedly delayed until 2027 due to an ongoing global DRAM and NAND flash memory shortage. We break down how this supply chain crisis is pushing back the release of the new top-tier laptop and the M5 Mac Studio, while exploring the six major features rumored for the Ultra, including an OLED touchscreen, Dynamic Island, built-in cellular, and the next-generation 2nm M6 chips.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_macbook_ultra/2026-04-26_macbook_ultra_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
