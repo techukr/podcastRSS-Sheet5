@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 04:58:55 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 05:16:26 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -148,6 +148,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href=""/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[STOP Quitting Minecraft: 3 Tiny co-op fixes [April 2026]]]></title>
+            <description><![CDATA[<p>Are you caught in a love-hate relationship with Minecraft? We uncover why players abandon their survival realms and why complex redstone music boxes become ignored background noise. But there is a verified blueprint to stop the solo-player burnout: the free 'Tiny Takeover: Mini Mania' add-on. Discover how 3 tiny, chaotic co-op mini-games—Critter Corral, Sweet Siege Survival, and Beehive Blitz—and their hidden baby mob plushie rewards can finally save your server!</p>]]></description>
+            <guid isPermaLink="false">b47a1555-de13-4bbe-aebd-6fb816edb928</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 05:16:26 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_minecraft/2026-04-26_Minecraft_Audio.mp3" length="17519313" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Are you caught in a love-hate relationship with Minecraft? We uncover why players abandon their survival realms and why complex redstone music boxes become ignored background noise. But there is a verified blueprint to stop the solo-player burnout: the free 'Tiny Takeover: Mini Mania' add-on. Discover how 3 tiny, chaotic co-op mini-games—Critter Corral, Sweet Siege Survival, and Beehive Blitz—and their hidden baby mob plushie rewards can finally save your server!</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_minecraft/2026-04-26_Minecraft_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
