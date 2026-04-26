@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 25 Apr 2026 07:09:26 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Apr 2026 00:42:00 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -109,6 +109,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260425_dji/2026-04-25_DJI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Secret 30-day PS5 DRM WARNING [April 2026]]]></title>
+            <description><![CDATA[<p>A surprise 30-day online DRM check-in requirement has reportedly appeared on recently purchased digital PlayStation 4 and PS5 games. While an anonymous insider claims this restriction is an unintentional bug from a recent firmware patch, worried fans are already comparing it to the infamous 2013 Xbox One always-online controversy. We break down the reports from Lance McDonald and DoesItPlay, explain what a dead CMOS battery means for your digital library, and explore whether your game licenses are truly at risk.</p>]]></description>
+            <guid isPermaLink="false">dd8c2b34-2c02-44d4-8965-ab2c720d680d</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 00:42:00 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260426_playstation_digital_games_drm/2026-04-26_playstation_digital_games_drm_Audio.mp3" length="20638333" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>A surprise 30-day online DRM check-in requirement has reportedly appeared on recently purchased digital PlayStation 4 and PS5 games. While an anonymous insider claims this restriction is an unintentional bug from a recent firmware patch, worried fans are already comparing it to the infamous 2013 Xbox One always-online controversy. We break down the reports from Lance McDonald and DoesItPlay, explain what a dead CMOS battery means for your digital library, and explore whether your game licenses are truly at risk.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260426_playstation_digital_games_drm/2026-04-26_playstation_digital_games_drm_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
