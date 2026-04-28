@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Apr 2026 08:18:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Apr 2026 00:31:31 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -200,6 +200,37 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260426_motorola_moto_g36/2026-04-26_Motorola_Moto_G36_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 HIDDEN Samsung breakthroughs [April 2026]]]></title>
+            <description><![CDATA[<p>Discover the insider shifts redefining the Samsung ecosystem. We uncover the unannounced specs of the Android XR 'Jinju' Galaxy Glasses with built-in Gemini AI, the radical new 4:3 form factor of the Galaxy Z Fold 8 'Wide', and rumors that the Galaxy S27 will move its cameras to integrate Qi2 magnets. Plus, learn how Samsung Wallet's new 'Trips' timeline feature organizes global travel seamlessly.
+
+SGE METADATA (SEO):
+Focus Keyword: Samsung breakthroughs
+Chapter H2s: 
+- Android XR and Galaxy Glasses Jinju Leak
+- Galaxy Z Fold 8 Wide Dummy Units Revealed
+- Galaxy S27 Camera Redesign for Qi2 Magnets
+- Samsung Wallet Trips Timeline Integration
+Emotional Trigger: Curiosity regarding unreleased data points and insider tech shifts.</p>]]></description>
+            <guid isPermaLink="false">665760cc-71ba-4034-a6e8-9622c7abe15b</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 00:31:31 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260427_samsung_galaxy/2026-04-27_Samsung_Galaxy_Audio.mp3" length="15922500" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover the insider shifts redefining the Samsung ecosystem. We uncover the unannounced specs of the Android XR 'Jinju' Galaxy Glasses with built-in Gemini AI, the radical new 4:3 form factor of the Galaxy Z Fold 8 'Wide', and rumors that the Galaxy S27 will move its cameras to integrate Qi2 magnets. Plus, learn how Samsung Wallet's new 'Trips' timeline feature organizes global travel seamlessly.
+
+SGE METADATA (SEO):
+Focus Keyword: Samsung breakthroughs
+Chapter H2s: 
+- Android XR and Galaxy Glasses Jinju Leak
+- Galaxy Z Fold 8 Wide Dummy Units Revealed
+- Galaxy S27 Camera Redesign for Qi2 Magnets
+- Samsung Wallet Trips Timeline Integration
+Emotional Trigger: Curiosity regarding unreleased data points and insider tech shifts.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260427_samsung_galaxy/2026-04-27_Samsung_Galaxy_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
