@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Tue, 28 Apr 2026 12:15:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Apr 2026 12:18:55 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -239,6 +239,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <guid isPermaLink="false">6b1827a6-1d95-46f9-975e-da36dc00ce39</guid>
             <dc:creator><![CDATA[ACDT]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:15:46 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260428_nintendo/2026-04-28_nintendo_Audio.mp3" length="16657899" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Nội dung đang cập nhật.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260428_nintendo/2026-04-28_nintendo_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[nintendo]]></title>
+            <description><![CDATA[<p>Nội dung đang cập nhật.</p>]]></description>
+            <guid isPermaLink="false">6ce1e8ce-4438-4fa4-8bdb-b591a7f69fd4</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:18:55 GMT</pubDate>
             <enclosure url="https://archive.org/download/podcast_20260428_nintendo/2026-04-28_nintendo_Audio.mp3" length="16657899" type="audio/mpeg"/>
             <itunes:summary><![CDATA[<p>Nội dung đang cập nhật.</p>]]></itunes:summary>
             <itunes:explicit>false</itunes:explicit>
