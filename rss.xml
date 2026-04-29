@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Tue, 28 Apr 2026 12:18:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Apr 2026 01:57:51 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -257,6 +257,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260428_nintendo/2026-04-28_nintendo_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 Agentic AI BREAKTHROUGHS on Android ]]></title>
+            <description><![CDATA[<p>The European Commission is mandating Google to open Android to third-party AI, enabling Agentic AI to autonomously control apps and access system-level context. We explore how this challenges Gemini's built-in monopoly. Plus, a proven 10-minute routine to instantly fix a sluggish phone by clearing digital bloat, and the new expansion of AirDrop over Quick Share to Vivo and Oppo smartphones.</p>]]></description>
+            <guid isPermaLink="false">11685d06-a247-46fd-bc71-95b22d2dd0ea</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 01:57:51 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260429_android/2026-04-29_android_Audio.mp3" length="16808364" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>The European Commission is mandating Google to open Android to third-party AI, enabling Agentic AI to autonomously control apps and access system-level context. We explore how this challenges Gemini's built-in monopoly. Plus, a proven 10-minute routine to instantly fix a sluggish phone by clearing digital bloat, and the new expansion of AirDrop over Quick Share to Vivo and Oppo smartphones.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260429_android/2026-04-29_android_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
