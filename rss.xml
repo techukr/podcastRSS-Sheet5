@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 30 Apr 2026 06:34:52 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Apr 2026 14:49:00 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -309,6 +309,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260430_vivo_y500/2026-04-30_vivo_Y500_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 HIDDEN iPhone 18 Pro Upgrades [April 2026]]]></title>
+            <description><![CDATA[<p>Discover the latest leaks surrounding the upcoming iPhone 18 Pro and base iPhone 18. We explore the massive new variable aperture camera, the highly anticipated 2nm A20 chip, and why skyrocketing LPDDR5 memory costs could force Apple to stick with 8GB of RAM for the entry-level models.</p>]]></description>
+            <guid isPermaLink="false">5d0d0c3a-2c17-4d90-aae1-e03c14e55310</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 14:49:00 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260430_iphone_18/2026-04-30_iphone_18_Audio.mp3" length="16999581" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover the latest leaks surrounding the upcoming iPhone 18 Pro and base iPhone 18. We explore the massive new variable aperture camera, the highly anticipated 2nm A20 chip, and why skyrocketing LPDDR5 memory costs could force Apple to stick with 8GB of RAM for the entry-level models.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260430_iphone_18/2026-04-30_iphone_18_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
