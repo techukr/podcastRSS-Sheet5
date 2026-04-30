@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 30 Apr 2026 06:27:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Apr 2026 06:34:52 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -296,6 +296,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260430_gemini/2026-04-30_Gemini_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[vivo Y500]]></title>
+            <description><![CDATA[<p>Nội dung đang cập nhật.</p>]]></description>
+            <guid isPermaLink="false">5d255f4a-18a7-4b54-bff2-04c2976b646b</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 06:34:52 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260430_vivo_y500/2026-04-30_vivo_Y500_Audio.mp3" length="14061745" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Nội dung đang cập nhật.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260430_vivo_y500/2026-04-30_vivo_Y500_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
