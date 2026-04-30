@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Wed, 29 Apr 2026 02:04:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Apr 2026 06:27:44 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -283,6 +283,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260429_lenovo_laptop/2026-04-29_lenovo_laptop_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 INSTANT Gemini features changing cars & work [April 2026]]]></title>
+            <description><![CDATA[<p>In this episode, we unpack Google's massive rollout of Gemini to approximately 4 million GM vehicles, enabling conversational AI for seamless texting, intelligent route planning, and curated in-car entertainment. We also explore the latest Gemini app upgrade that empowers users to instantly generate and export PDFs, spreadsheets, and Workspace documents directly from chat prompts, fundamentally shifting how we transition from brainstorming to completed work.</p>]]></description>
+            <guid isPermaLink="false">9f55eafb-058a-429f-b724-7d742f8f2fd7</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 06:27:44 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260430_gemini/2026-04-30_Gemini_Audio.mp3" length="11320142" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we unpack Google's massive rollout of Gemini to approximately 4 million GM vehicles, enabling conversational AI for seamless texting, intelligent route planning, and curated in-car entertainment. We also explore the latest Gemini app upgrade that empowers users to instantly generate and export PDFs, spreadsheets, and Workspace documents directly from chat prompts, fundamentally shifting how we transition from brainstorming to completed work.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260430_gemini/2026-04-30_Gemini_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
