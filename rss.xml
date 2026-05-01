@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Fri, 01 May 2026 02:27:07 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 May 2026 16:50:45 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -335,6 +335,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260501_deepseek/2026-05-01_deepseek_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Amazon's SECRET blueprint for 3 new Duke games ]]></title>
+            <description><![CDATA[<p>Amazon is making aggressive moves into live sports and reality television. We break down the landmark NIL deal bringing 3 marquee Duke men's basketball games against UConn, Michigan, and Gonzaga exclusively to Prime Video. Plus, we explore reports that Amazon MGM Studios is in early discussions to reboot 'The Apprentice' with Donald Trump Jr. as host.</p>]]></description>
+            <guid isPermaLink="false">9d872bd0-f5e2-4481-8675-4e9121344fc2</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 16:50:45 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260501_amazon/2026-05-01_Amazon_Audio.mp3" length="17838425" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Amazon is making aggressive moves into live sports and reality television. We break down the landmark NIL deal bringing 3 marquee Duke men's basketball games against UConn, Michigan, and Gonzaga exclusively to Prime Video. Plus, we explore reports that Amazon MGM Studios is in early discussions to reboot 'The Apprentice' with Donald Trump Jr. as host.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260501_amazon/2026-05-01_Amazon_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
