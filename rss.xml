@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 30 Apr 2026 14:49:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 May 2026 02:27:07 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -322,6 +322,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260430_iphone_18/2026-04-30_iphone_18_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 SECRET DeepSeek V4 Tactics [April 2026]]]></title>
+            <description><![CDATA[<p>Dive into the global AI adoption race as China's DeepSeek V4 launches a 75% discount price war against U.S. competitors. We uncover how this 1.6-trillion-parameter open-source model was developed using smuggled Nvidia Blackwell chips and industrial-scale distillation attacks against Anthropic and OpenAI. Plus, explore the geopolitical shift towards Sovereign AI, Google's invisible AI integration for Android 17, and the debut of OpenAI's GPT-5.5 super app.</p>]]></description>
+            <guid isPermaLink="false">ad1b06f4-0f84-4f6c-8fd8-44d83e56a5b9</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 02:27:07 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260501_deepseek/2026-05-01_deepseek_Audio.mp3" length="19340570" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Dive into the global AI adoption race as China's DeepSeek V4 launches a 75% discount price war against U.S. competitors. We uncover how this 1.6-trillion-parameter open-source model was developed using smuggled Nvidia Blackwell chips and industrial-scale distillation attacks against Anthropic and OpenAI. Plus, explore the geopolitical shift towards Sovereign AI, Google's invisible AI integration for Android 17, and the debut of OpenAI's GPT-5.5 super app.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260501_deepseek/2026-05-01_deepseek_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
