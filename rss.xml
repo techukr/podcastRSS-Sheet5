@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Fri, 01 May 2026 16:50:45 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 02 May 2026 15:29:24 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -348,6 +348,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260501_amazon/2026-05-01_Amazon_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 HIDDEN Gemini secrets exposed [April 2026]]]></title>
+            <description><![CDATA[<p>We explore Google's sweeping AI expansion across its ecosystem. This episode breaks down the deployment of Gemini to millions of GM vehicles, the accidental Play Store leak of the experimental 'COSMO' AI assistant powered by Gemini Nano, and the controversial 'dark patterns' making it difficult to opt out of AI data training in Google Workspace.</p>]]></description>
+            <guid isPermaLink="false">4992b07c-114b-4bd2-9bce-906f20ec0dcd</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 15:29:24 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260502_google/2026-05-02_google_Audio.mp3" length="16753194" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>We explore Google's sweeping AI expansion across its ecosystem. This episode breaks down the deployment of Gemini to millions of GM vehicles, the accidental Play Store leak of the experimental 'COSMO' AI assistant powered by Gemini Nano, and the controversial 'dark patterns' making it difficult to opt out of AI data training in Google Workspace.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260502_google/2026-05-02_google_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
