@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 02 May 2026 15:29:24 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 03 May 2026 13:33:47 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -361,6 +361,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260502_google/2026-05-02_google_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 reasons Agentic AI is the REAL Doraemon ]]></title>
+            <description><![CDATA[<p>Discover how the iconic bond between Nobita and the robotic cat Doraemon is inspiring the future of human-AI synergy. This episode explores Professor Shogo Okada's research on emotionally intelligent AI using multimodal signals, and Pat Pataranutaporn's vision of AI extending human capabilities. We also discuss the real-world implications of AI, including Indonesian police investigating Grok AI deepfakes, SK hynix's SOCAMM2 mass production for Nvidia AI servers, and Doraemon's farewell from Indonesian TV after 35 years.</p>]]></description>
+            <guid isPermaLink="false">215955e2-d730-4d51-8dfd-52238f3b78e5</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 13:33:47 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260503_nobita_ai/2026-05-03_nobita_ai_Audio.mp3" length="18497337" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover how the iconic bond between Nobita and the robotic cat Doraemon is inspiring the future of human-AI synergy. This episode explores Professor Shogo Okada's research on emotionally intelligent AI using multimodal signals, and Pat Pataranutaporn's vision of AI extending human capabilities. We also discuss the real-world implications of AI, including Indonesian police investigating Grok AI deepfakes, SK hynix's SOCAMM2 mass production for Nvidia AI servers, and Doraemon's farewell from Indonesian TV after 35 years.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260503_nobita_ai/2026-05-03_nobita_ai_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
