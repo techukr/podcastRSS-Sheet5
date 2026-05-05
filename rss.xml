@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Tue, 05 May 2026 08:54:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 May 2026 09:06:18 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -387,6 +387,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260505_chunk_ai/2026-05-05_chunk_ai_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[7 HIDDEN Steam Controller upgrades [May 2026]]]></title>
+            <description><![CDATA[<p>Valve's new Steam Controller has officially launched for $99, but is it worth the premium price tag? We explore the hardware's most innovative additions, including drift-proof TMR thumbsticks, dual touchpads, and a magnetic charging Puck with an impressive 50-foot wireless range. We also discuss early reviews, Linux compatibility via the Steam Runtime, and Mechanism's new $9 Basegrip that allows you to mount a smartphone directly to the controller.</p>]]></description>
+            <guid isPermaLink="false">f304e75d-8696-419b-a017-b6d745f98a89</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 09:06:18 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260505_steam_controllef/2026-05-05_steam_controllef_Audio.mp3" length="14355780" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Valve's new Steam Controller has officially launched for $99, but is it worth the premium price tag? We explore the hardware's most innovative additions, including drift-proof TMR thumbsticks, dual touchpads, and a magnetic charging Puck with an impressive 50-foot wireless range. We also discuss early reviews, Linux compatibility via the Steam Runtime, and Mechanism's new $9 Basegrip that allows you to mount a smartphone directly to the controller.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260505_steam_controllef/2026-05-05_steam_controllef_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
