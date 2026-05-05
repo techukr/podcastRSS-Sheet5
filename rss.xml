@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 03 May 2026 13:33:47 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 May 2026 08:54:29 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -374,6 +374,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260503_nobita_ai/2026-05-03_nobita_ai_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[The SECRET AI chip blueprint [5 Facts]]]></title>
+            <description><![CDATA[<p>By 2033, the global AI chip market is projected to reach $700 billion, and the UK has the potential to capture a massive $35 billion share. This episode explores Lord John Browne's blueprint for British semiconductor success, revealing how the nation can leverage its world-class chip design legacy, including industry leaders like Arm. We unpack the critical steps needed to dominate the digital gold rush: doubling the electrical engineering workforce, utilizing sovereign AI funds, and forging deep integration with US fabrication technology.</p>]]></description>
+            <guid isPermaLink="false">071c9cf6-a321-4419-884f-c1671511a4fb</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 08:54:29 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260505_chunk_ai/2026-05-05_chunk_ai_Audio.mp3" length="14635394" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>By 2033, the global AI chip market is projected to reach $700 billion, and the UK has the potential to capture a massive $35 billion share. This episode explores Lord John Browne's blueprint for British semiconductor success, revealing how the nation can leverage its world-class chip design legacy, including industry leaders like Arm. We unpack the critical steps needed to dominate the digital gold rush: doubling the electrical engineering workforce, utilizing sovereign AI funds, and forging deep integration with US fabrication technology.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260505_chunk_ai/2026-05-05_chunk_ai_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
