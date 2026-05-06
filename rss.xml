@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Tue, 05 May 2026 09:06:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 May 2026 03:03:12 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -400,6 +400,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260505_steam_controllef/2026-05-05_steam_controllef_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[The REAL 5 Wearable AI winners you need [April 2026]]]></title>
+            <description><![CDATA[<p>Wearable AI has survived the hype cycle to become a productivity and public safety powerhouse. This episode breaks down the 5 breakthrough devices dominating the market, including the Ray-Ban Meta Gen 2, Plaud NotePin S, and Amazon's Bee. We explore how ambient computing is transforming emergency response for police and firefighters, and examine a provocative MIT prototype using the Claude API to physically move human limbs.</p>]]></description>
+            <guid isPermaLink="false">787ff14f-a5ba-439b-a302-e314f7e80333</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 03:03:12 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260506_wearable_ai/2026-05-06_Wearable_AI_Audio.mp3" length="20638333" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Wearable AI has survived the hype cycle to become a productivity and public safety powerhouse. This episode breaks down the 5 breakthrough devices dominating the market, including the Ray-Ban Meta Gen 2, Plaud NotePin S, and Amazon's Bee. We explore how ambient computing is transforming emergency response for police and firefighters, and examine a provocative MIT prototype using the Claude API to physically move human limbs.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260506_wearable_ai/2026-05-06_Wearable_AI_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
