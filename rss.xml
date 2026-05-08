@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Wed, 06 May 2026 03:03:12 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 May 2026 02:25:38 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -413,6 +413,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260506_wearable_ai/2026-05-06_Wearable_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Did xAI CONCEDE the AI race? [3 reasons]]]></title>
+            <description><![CDATA[<p>We examine why Elon Musk struck a deal with Anthropic and what it suggests about xAI's position in the AI race. Plus, insights on Shivon Zilis's testimony, week one of the OpenAI-Elon Musk trial, and a major new study on school phone bans.</p>]]></description>
+            <guid isPermaLink="false">b0282b59-6fd3-4f2a-ba0c-22cee0f9e418</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 02:25:38 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260508_xai/2026-05-08_xAI_Audio.mp3" length="12547061" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>We examine why Elon Musk struck a deal with Anthropic and what it suggests about xAI's position in the AI race. Plus, insights on Shivon Zilis's testimony, week one of the OpenAI-Elon Musk trial, and a major new study on school phone bans.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260508_xai/2026-05-08_xAI_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
