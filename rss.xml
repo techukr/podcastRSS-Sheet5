@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Fri, 08 May 2026 02:25:38 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 10 May 2026 02:09:30 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -426,6 +426,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260508_xai/2026-05-08_xAI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 Hidden Disney AI Secrets: The REAL Cost ]]></title>
+            <description><![CDATA[<p>During the Q2 2026 earnings call, Disney CEO Josh D'Amaro and CFO Hugh Johnston outlined a new AI strategy promising easier Walt Disney World vacation planning, personalized streaming, and dynamic ad targeting. However, behind the magic, Disney is implementing 'precision labor demand forecasting' to build a 'culture of efficiency.' Following recent layoffs of 1,000 workers, we explore how this technology will reshape theme park operations, staffing, and the guest experience.</p>]]></description>
+            <guid isPermaLink="false">ad7ebd6b-3b99-4de7-bb6d-5a3d16fabcbd</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 02:09:30 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260509_disney_ai/2026-05-09_disney_AI_Audio.mp3" length="16186441" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>During the Q2 2026 earnings call, Disney CEO Josh D'Amaro and CFO Hugh Johnston outlined a new AI strategy promising easier Walt Disney World vacation planning, personalized streaming, and dynamic ad targeting. However, behind the magic, Disney is implementing 'precision labor demand forecasting' to build a 'culture of efficiency.' Following recent layoffs of 1,000 workers, we explore how this technology will reshape theme park operations, staffing, and the guest experience.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260509_disney_ai/2026-05-09_disney_AI_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
