@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 10 May 2026 02:09:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 11 May 2026 00:15:39 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -439,6 +439,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260509_disney_ai/2026-05-09_disney_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[The HIDDEN Agentic AI cyberwar [3 Warnings]]]></title>
+            <description><![CDATA[<p>Discover how autonomous cyber-agents are reshaping global conflict. We analyze the 2025 Anthropic AI espionage disruption, the terrifying Handala hack targeting U.S. Marines' families, and the sophisticated four-hour U.S.-Israel cyber attack on Iran. Tune in to understand the escalating threat of rogue Agentic AI and how organizations can defend critical infrastructure before these systems evolve beyond human control.</p>]]></description>
+            <guid isPermaLink="false">1be0cd41-e9a9-43a5-a616-f8c8df826b07</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 00:15:39 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260511_cyberwar/2026-05-11_cyberwar_Audio.mp3" length="20126124" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover how autonomous cyber-agents are reshaping global conflict. We analyze the 2025 Anthropic AI espionage disruption, the terrifying Handala hack targeting U.S. Marines' families, and the sophisticated four-hour U.S.-Israel cyber attack on Iran. Tune in to understand the escalating threat of rogue Agentic AI and how organizations can defend critical infrastructure before these systems evolve beyond human control.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260511_cyberwar/2026-05-11_cyberwar_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
