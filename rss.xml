@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Tue, 12 May 2026 01:56:47 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 15 May 2026 04:08:21 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -465,6 +465,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260510_vpn_ai/2026-05-10_vpn_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[1 WARNING about iOS 27 ]]></title>
+            <description><![CDATA[<p>Apple has agreed to a $250 million class-action settlement over unfulfilled Siri and Apple Intelligence marketing claims for iPhone 15 and 16 users. As we break down who qualifies for a payout, we also look ahead to how the upcoming iOS 27 aims to finally deliver on those promises. Rumored to be a 'Snow Leopard' style update, iOS 27 will focus heavily on system optimization, refining the Liquid Glass interface, and introducing meaningful AI-powered Siri upgrades.</p>]]></description>
+            <guid isPermaLink="false">9c3449f8-b41f-4c46-aba8-2a818dea353c</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 04:08:21 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260515_iphone_ai/2026-05-15_iphone_AI_Audio.mp3" length="15598999" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Apple has agreed to a $250 million class-action settlement over unfulfilled Siri and Apple Intelligence marketing claims for iPhone 15 and 16 users. As we break down who qualifies for a payout, we also look ahead to how the upcoming iOS 27 aims to finally deliver on those promises. Rumored to be a 'Snow Leopard' style update, iOS 27 will focus heavily on system optimization, refining the Liquid Glass interface, and introducing meaningful AI-powered Siri upgrades.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260515_iphone_ai/2026-05-15_iphone_AI_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
