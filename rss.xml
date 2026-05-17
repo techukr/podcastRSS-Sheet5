@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Fri, 15 May 2026 04:08:21 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 17 May 2026 00:16:27 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -478,6 +478,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260515_iphone_ai/2026-05-15_iphone_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 HIDDEN Grok Build flaws [May 2026]]]></title>
+            <description><![CDATA[<p>In this episode, we explore the launch of xAI's new Agentic AI, Grok Build, a $300 per month coding agent aiming to rival Claude Code. We uncover 3 hidden flaws impacting the project, including the mass exodus of over 50 engineers after the SpaceXAI merger. Plus, a look at Elon Musk's symbiotic relationship with a prolific X superfan named XFreeze.</p>]]></description>
+            <guid isPermaLink="false">8945192e-0895-4df2-811e-d17f8b6d8079</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 00:16:27 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260517_grok_ai/2026-05-17_grok_ai_Audio.mp3" length="17410225" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we explore the launch of xAI's new Agentic AI, Grok Build, a $300 per month coding agent aiming to rival Claude Code. We uncover 3 hidden flaws impacting the project, including the mass exodus of over 50 engineers after the SpaceXAI merger. Plus, a look at Elon Musk's symbiotic relationship with a prolific X superfan named XFreeze.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260517_grok_ai/2026-05-17_grok_ai_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
