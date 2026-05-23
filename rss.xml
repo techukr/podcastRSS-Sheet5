@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 17 May 2026 00:16:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 23 May 2026 02:14:41 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -491,6 +491,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260517_grok_ai/2026-05-17_grok_ai_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 REAL Changes In Oura Ring 5 [May 2026]]]></title>
+            <description><![CDATA[<p>An internal document leak reveals the Oura Ring 5 will officially launch on June 4, 2026. Discover the newly revealed upgrades—including a smaller, more comfortable design and a new Deep Rose color option—plus why Oura is keeping the existing sensor technology and mandatory subscription model exactly the same.</p>]]></description>
+            <guid isPermaLink="false">2fbbd12c-afc0-4e1d-81af-7375fe93b2fd</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 02:14:41 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260522_oura_ring_5/2026-05-22_oura_ring_5_Audio.mp3" length="14256723" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>An internal document leak reveals the Oura Ring 5 will officially launch on June 4, 2026. Discover the newly revealed upgrades—including a smaller, more comfortable design and a new Deep Rose color option—plus why Oura is keeping the existing sensor technology and mandatory subscription model exactly the same.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260522_oura_ring_5/2026-05-22_oura_ring_5_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
