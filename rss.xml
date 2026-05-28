@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 23 May 2026 02:14:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 May 2026 14:14:52 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -504,6 +504,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260522_oura_ring_5/2026-05-22_oura_ring_5_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 PlayStation Plus games FINALLY here [June 2026]]]></title>
+            <description><![CDATA[<p>Explore the 3 PlayStation Plus games dropping in June 2026, including Xbox's Grounded and Warhammer 40,000: Darktide. We break down the latest Days of Play sale discounts on DualSense controllers, Destiny 2's legacy updates, and the essential media apps to upgrade your PS5 entertainment center.</p>]]></description>
+            <guid isPermaLink="false">80772846-d070-46a7-b1e1-02a432e10dc3</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 14:14:52 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260528_playstation/2026-05-28_playstation_Audio.mp3" length="19005158" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Explore the 3 PlayStation Plus games dropping in June 2026, including Xbox's Grounded and Warhammer 40,000: Darktide. We break down the latest Days of Play sale discounts on DualSense controllers, Destiny 2's legacy updates, and the essential media apps to upgrade your PS5 entertainment center.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260528_playstation/2026-05-28_playstation_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
