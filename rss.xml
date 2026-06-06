@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 06 Jun 2026 02:28:21 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 06 Jun 2026 16:52:21 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -543,6 +543,58 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260605_linkedin/2026-06-05_Linkedin_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Warning: Steam Machine REAL price [3 Leaks]]]></title>
+            <description><![CDATA[<p>Valve officially confirmed a Summer 2026 release window for the Steam Machine, but new leaks suggest a massive price hike. We analyze 3 critical updates: the hidden 'Welcome Tour' backend page, insider reports from Mike Straw, and Brad Lynch's warning that the AI-driven memory shortage could push the PC-console hybrid well over the $1000 mark. Tune in for the verified breakdown of Valve's upcoming hardware.</p>]]></description>
+            <guid isPermaLink="false">ec9e0beb-7e2c-4e30-b3fd-a608551c8a68</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 16:52:13 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260606_valve_steam_machine_release_date/2026-06-06_valve_steam_machine_release_date_Audio.mp3" length="16741282" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Valve officially confirmed a Summer 2026 release window for the Steam Machine, but new leaks suggest a massive price hike. We analyze 3 critical updates: the hidden 'Welcome Tour' backend page, insider reports from Mike Straw, and Brad Lynch's warning that the AI-driven memory shortage could push the PC-console hybrid well over the $1000 mark. Tune in for the verified breakdown of Valve's upcoming hardware.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260606_valve_steam_machine_release_date/2026-06-06_valve_steam_machine_release_date_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Apple finally FIXED tvOS 27 [3 secrets]]]></title>
+            <description><![CDATA[<p>In this episode, we dive into how Apple is transforming the Apple TV 4K in 2026. We break down the upcoming tvOS 27 updates, including the 'Larger Text' accessibility feature and the highly anticipated AI-powered Siri revamp. We also explore hardware rumors, discussing how an A17 Pro chip and the potential removal of the 4GB app size limit could make the Apple TV a formidable AAA gaming platform. Plus, we share exactly how to use a 7-day free trial to stream the premiere of Martin Scorsese's new thriller series, 'Cape Fear', starring Javier Bardem.</p>]]></description>
+            <guid isPermaLink="false">dadbe6e6-f4f3-4511-8402-8f9f83e781d9</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 16:52:15 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260606_appletv/2026-06-06_appletv_Audio.mp3" length="19486020" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>In this episode, we dive into how Apple is transforming the Apple TV 4K in 2026. We break down the upcoming tvOS 27 updates, including the 'Larger Text' accessibility feature and the highly anticipated AI-powered Siri revamp. We also explore hardware rumors, discussing how an A17 Pro chip and the potential removal of the 4GB app size limit could make the Apple TV a formidable AAA gaming platform. Plus, we share exactly how to use a 7-day free trial to stream the premiere of Martin Scorsese's new thriller series, 'Cape Fear', starring Javier Bardem.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260606_appletv/2026-06-06_appletv_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[The SECRET 3 Pokemon Go Fest tips [Chicago]]]></title>
+            <description><![CDATA[<p>Discover the essential preparation steps for the 10th anniversary of Pokemon Go Fest 2026 in Chicago. We detail how to navigate the Lincoln Park Zoo Trainer Lounge, earn your Expert badge, and adapt to the new assigned Gym rules for the Mega Mewtwo Super Mega Raids.</p>]]></description>
+            <guid isPermaLink="false">54efcf68-f7b9-4452-be7f-7db59b991d88</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 16:52:20 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260606_pokemon_go_fest_chicago/2026-06-06_pokemon_go_fest_chicago_Audio.mp3" length="20725478" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Discover the essential preparation steps for the 10th anniversary of Pokemon Go Fest 2026 in Chicago. We detail how to navigate the Lincoln Park Zoo Trainer Lounge, earn your Expert badge, and adapt to the new assigned Gym rules for the Mega Mewtwo Super Mega Raids.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260606_pokemon_go_fest_chicago/2026-06-06_pokemon_go_fest_chicago_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Warning: 3 CANNIBAL storms [June 2026]]]></title>
+            <description><![CDATA[<p>The National Oceanic and Atmospheric Administration has issued a strong G3 geomagnetic storm warning for June 4 to June 5. Three coronal mass ejections are currently heading toward Earth and could merge into a 'cannibal CME.' This episode explores the potential impacts of the resulting geomagnetic storm on power grids and satellite navigation, and reveals where the northern lights might become visible as far south as Illinois and Oregon.</p>]]></description>
+            <guid isPermaLink="false">809c81df-b84b-4b1d-88af-7d1ad07d189b</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 16:52:21 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260606_geomagnetic_storm/2026-06-06_geomagnetic_storm_Audio.mp3" length="19883499" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>The National Oceanic and Atmospheric Administration has issued a strong G3 geomagnetic storm warning for June 4 to June 5. Three coronal mass ejections are currently heading toward Earth and could merge into a 'cannibal CME.' This episode explores the potential impacts of the resulting geomagnetic storm on power grids and satellite navigation, and reveals where the northern lights might become visible as far south as Illinois and Oregon.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260606_geomagnetic_storm/2026-06-06_geomagnetic_storm_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
