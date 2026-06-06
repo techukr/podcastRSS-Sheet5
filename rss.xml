@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 04 Jun 2026 01:43:28 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 06 Jun 2026 02:28:21 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -530,6 +530,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260604_rtx_spark_laptop/2026-06-04_rtx_spark_laptop_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Stop Crying: 3 HIDDEN Answer Engine Rules ]]></title>
+            <description><![CDATA[<p>LinkedIn executives are officially pushing back against 'crying CEO' confessionals and unprofessional oversharing. Instead, the platform is actively prioritizing Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO). We explore why emotional vulnerability stunts are backfiring, and share structural content strategies to ensure your brand is discovered by AI chatbots crawling the web for answers.</p>]]></description>
+            <guid isPermaLink="false">0d084bc7-587f-43bc-8e4d-73bdc032d8a2</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 02:28:21 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260605_linkedin/2026-06-05_Linkedin_Audio.mp3" length="14756394" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>LinkedIn executives are officially pushing back against 'crying CEO' confessionals and unprofessional oversharing. Instead, the platform is actively prioritizing Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO). We explore why emotional vulnerability stunts are backfiring, and share structural content strategies to ensure your brand is discovered by AI chatbots crawling the web for answers.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260605_linkedin/2026-06-05_Linkedin_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
