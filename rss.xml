@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Tue, 09 Jun 2026 10:22:37 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2026 12:49:38 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -608,6 +608,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260609_apple_siri_ai/2026-06-09_Apple_Siri_AI_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[FINALLY fixed: Dragon's Dogma 2 [3 updates]]]></title>
+            <description><![CDATA[<p>Capcom has announced the Dragon's Dogma 2: Dark Arisen expansion, launching October 9, 2026, alongside a massive quality-of-life update available right now. In this episode, we break down the addition of the Eternal Ferrystone that fixes the game's fast travel restrictions, new Portcrystal locations, and the new Guardian pawn specialization. We also look ahead to the August update bringing 3 save slots and performance improvements, plus details on the icy new region of Norgan coming to PC, PS5, Xbox Series X/S, and Nintendo Switch 2.</p>]]></description>
+            <guid isPermaLink="false">1dacf6d8-1e91-4634-a046-c5e62c336018</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 12:49:38 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260611_dragons_dogma_2_dark_arisen/2026-06-11_dragons_dogma_2_dark_arisen_Audio.mp3" length="14279920" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Capcom has announced the Dragon's Dogma 2: Dark Arisen expansion, launching October 9, 2026, alongside a massive quality-of-life update available right now. In this episode, we break down the addition of the Eternal Ferrystone that fixes the game's fast travel restrictions, new Portcrystal locations, and the new Guardian pawn specialization. We also look ahead to the August update bringing 3 save slots and performance improvements, plus details on the icy new region of Norgan coming to PC, PS5, Xbox Series X/S, and Nintendo Switch 2.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260611_dragons_dogma_2_dark_arisen/2026-06-11_dragons_dogma_2_dark_arisen_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
