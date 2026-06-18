@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 11 Jun 2026 12:49:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2026 02:48:40 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -621,6 +621,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260611_dragons_dogma_2_dark_arisen/2026-06-11_dragons_dogma_2_dark_arisen_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Thiel's SECRET Dialog leak: 113 elites exposed [June 2026]]]></title>
+            <description><![CDATA[<p>This episode breaks down a series of major security lapses. We start with the massive leak of Peter Thiel and Auren Hoffman's ultra-secret 'Dialog' network, founded 20 years ago [1, 2]. Security researcher maia arson crimew exposed profiles of 113 elites—including Treasury Secretary Scott Bessent, Sen. Ted Cruz, and actor Josh Brolin—revealing private emails, phone numbers, and political leanings [3-5]. Next, we analyze iRhythm's SEC filing confirming a cyberattack where hackers stole patient health information and demanded a ransom [6, 7]. We also examine Nintendo's statement on a data leak involving third-party employee survey service TinyPulse [8], and the $3.3 million class action settlement for the 2025 Mt. Baker Imaging data breach [9, 10].</p>]]></description>
+            <guid isPermaLink="false">fb37f1d5-46d4-46d3-9d1b-746b27987e2d</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 02:48:40 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260617_data_breach/2026-06-17_data_breach_Audio.mp3" length="13533236" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>This episode breaks down a series of major security lapses. We start with the massive leak of Peter Thiel and Auren Hoffman's ultra-secret 'Dialog' network, founded 20 years ago [1, 2]. Security researcher maia arson crimew exposed profiles of 113 elites—including Treasury Secretary Scott Bessent, Sen. Ted Cruz, and actor Josh Brolin—revealing private emails, phone numbers, and political leanings [3-5]. Next, we analyze iRhythm's SEC filing confirming a cyberattack where hackers stole patient health information and demanded a ransom [6, 7]. We also examine Nintendo's statement on a data leak involving third-party employee survey service TinyPulse [8], and the $3.3 million class action settlement for the 2025 Mt. Baker Imaging data breach [9, 10].</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260617_data_breach/2026-06-17_data_breach_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
