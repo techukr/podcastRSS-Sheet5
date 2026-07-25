@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 18 Jun 2026 02:48:40 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jul 2026 15:40:36 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -634,6 +634,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260617_data_breach/2026-06-17_data_breach_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[The REAL Sam Patterson 5th Breakthrough [UFC Abu Dhabi]]]></title>
+            <description><![CDATA[<p>Sam Patterson secured a dominant second-round TKO against veteran Santiago Ponzinibbio at UFC Abu Dhabi. Utilizing a 78-inch reach and crisp boxing, Patterson controlled the fight before landing a massive hook to close the show. This victory cements him as a rising welterweight contender.</p>]]></description>
+            <guid isPermaLink="false">44eb04be-c723-4ee0-93a7-e0eb11f5e327</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 15:40:36 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260725_santiago_ponzinibbio/2026-07-25_santiago_ponzinibbio_Audio.mp3" length="11888149" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Sam Patterson secured a dominant second-round TKO against veteran Santiago Ponzinibbio at UFC Abu Dhabi. Utilizing a 78-inch reach and crisp boxing, Patterson controlled the fight before landing a massive hook to close the show. This victory cements him as a rising welterweight contender.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260725_santiago_ponzinibbio/2026-07-25_santiago_ponzinibbio_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
