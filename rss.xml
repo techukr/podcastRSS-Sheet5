@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sat, 25 Jul 2026 15:40:36 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jul 2026 08:39:19 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -647,6 +647,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260725_santiago_ponzinibbio/2026-07-25_santiago_ponzinibbio_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[1 SECRET iPhone 18 Pro Max price warning ]]></title>
+            <description><![CDATA[<p>Apple is demanding a 20 percent price cut from OLED suppliers to offset rising memory and 2nm processor costs. Samsung and LG face aggressive pressure to deliver advanced M16 displays for $66.50 each. A $200 retail price hike looms for buyers, making upgrading your smartphone feel like paying a second rent bill. 1 single component now dictates the financial margins of mobile computing.</p>]]></description>
+            <guid isPermaLink="false">ebb56e08-84ca-4aae-974a-e013594f9768</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 08:39:19 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260726_apple_iphone_18_pro_max/2026-07-26_apple_iphone_18_pro_max_Audio.mp3" length="13748903" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Apple is demanding a 20 percent price cut from OLED suppliers to offset rising memory and 2nm processor costs. Samsung and LG face aggressive pressure to deliver advanced M16 displays for $66.50 each. A $200 retail price hike looms for buyers, making upgrading your smartphone feel like paying a second rent bill. 1 single component now dictates the financial margins of mobile computing.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260726_apple_iphone_18_pro_max/2026-07-26_apple_iphone_18_pro_max_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
