@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Sun, 26 Jul 2026 08:39:19 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jul 2026 02:40:09 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -660,6 +660,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260726_apple_iphone_18_pro_max/2026-07-26_apple_iphone_18_pro_max_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[Seattle Center shooting HALTS 3-day food festival ]]></title>
+            <description><![CDATA[<p>Gunfire erupted Sunday night at the Seattle Center near the Space Needle, leaving multiple victims injured. The shooting interrupted the annual Bite of Seattle, a 3-day event typically drawing 350,000 attendees. Harborview Medical Center is receiving the wounded while a heavy presence of first responders secures the complex. Authorities urge the public to avoid the area as the investigation continues.</p>]]></description>
+            <guid isPermaLink="false">28c4496e-666d-4b78-abc4-8258677418ec</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 02:40:09 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260727_seattle_shooting/2026-07-27_seattle_shooting_Audio.mp3" length="18929925" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Gunfire erupted Sunday night at the Seattle Center near the Space Needle, leaving multiple victims injured. The shooting interrupted the annual Bite of Seattle, a 3-day event typically drawing 350,000 attendees. Harborview Medical Center is receiving the wounded while a heavy presence of first responders secures the complex. Authorities urge the public to avoid the area as the investigation continues.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260727_seattle_shooting/2026-07-27_seattle_shooting_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
