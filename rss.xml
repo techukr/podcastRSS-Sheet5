@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Mon, 27 Jul 2026 02:40:09 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jul 2026 14:42:14 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -673,6 +673,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260727_seattle_shooting/2026-07-27_seattle_shooting_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[1 Hidden TRAGEDY: Eric Bieniemy [July 2026]]]></title>
+            <description><![CDATA[<p>Gunfire at a family residence destroys the typical optimism of an NFL training camp. Mia Bieniemy was shot Sunday night in Ashburn, Virginia—miles away from where Chiefs coordinator Eric Bieniemy was coaching in Missouri. Authorities confirm the 57-year-old remains hospitalized in stable condition. Two critical details demand attention: Loudoun County police responded at 7:32 p.m. ET, and the franchise rapidly issued an official statement.</p>]]></description>
+            <guid isPermaLink="false">017ad82d-f2c3-4b26-9bd2-83baa3ca7e77</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 14:42:14 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260727_eric_bieniemy/2026-07-27_eric_bieniemy_Audio.mp3" length="17851590" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Gunfire at a family residence destroys the typical optimism of an NFL training camp. Mia Bieniemy was shot Sunday night in Ashburn, Virginia—miles away from where Chiefs coordinator Eric Bieniemy was coaching in Missouri. Authorities confirm the 57-year-old remains hospitalized in stable condition. Two critical details demand attention: Loudoun County police responded at 7:32 p.m. ET, and the franchise rapidly issued an official statement.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260727_eric_bieniemy/2026-07-27_eric_bieniemy_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
