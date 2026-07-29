@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Mon, 27 Jul 2026 14:42:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jul 2026 01:40:32 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -686,6 +686,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260727_eric_bieniemy/2026-07-27_eric_bieniemy_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[McConnell hidden 43 days: The REAL ultimatum [KY Politics]]]></title>
+            <description><![CDATA[<p>Kentucky Governor Andy Beshear has issued a stark ultimatum to Senator Mitch McConnell: verbally prove your capacity to serve the public or resign. Following McConnell's 43-day absence since his hospitalization, both leaders are noticeably skipping the 146th annual Fancy Farm Picnic. Beshear is now threatening to ask Senate Majority Leader John Thune to investigate replacing the longtime senator if transparency isn't provided.</p>]]></description>
+            <guid isPermaLink="false">0f6209fe-0c27-4f43-b855-5620d496fc10</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:40:32 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260729_andy_beshear/2026-07-29_andy_beshear_Audio.mp3" length="16484237" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Kentucky Governor Andy Beshear has issued a stark ultimatum to Senator Mitch McConnell: verbally prove your capacity to serve the public or resign. Following McConnell's 43-day absence since his hospitalization, both leaders are noticeably skipping the 146th annual Fancy Farm Picnic. Beshear is now threatening to ask Senate Majority Leader John Thune to investigate replacing the longtime senator if transparency isn't provided.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260729_andy_beshear/2026-07-29_andy_beshear_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
