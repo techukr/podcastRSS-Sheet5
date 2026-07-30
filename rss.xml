@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Wed, 29 Jul 2026 01:40:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jul 2026 01:44:30 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -699,6 +699,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260729_andy_beshear/2026-07-29_andy_beshear_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 Falcons QBs down: Why Cooper Rush SAVED camp ]]></title>
+            <description><![CDATA[<p>The Atlanta Falcons opened their 2026 training camp facing a severe quarterback shortage. Tua Tagovailoa suffered a tight back and Michael Penix Jr. remains sidelined from ACL surgery. The front office released Trevor Siemian, leaving undrafted rookie Jack Strand alone on the practice field. Head coach Kevin Stefanski signed eight-year veteran Cooper Rush to step in immediately. Running an NFL offense with a single rookie quarterback feels like trying to steer a massive cruise ship with a wooden canoe paddle. Rush provides necessary stability for the active roster.</p>]]></description>
+            <guid isPermaLink="false">f4770fa1-0ba0-44d6-9f92-6578e20f86f7</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:30 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260729_cooper_rush/2026-07-29_cooper_rush_Audio.mp3" length="19497305" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>The Atlanta Falcons opened their 2026 training camp facing a severe quarterback shortage. Tua Tagovailoa suffered a tight back and Michael Penix Jr. remains sidelined from ACL surgery. The front office released Trevor Siemian, leaving undrafted rookie Jack Strand alone on the practice field. Head coach Kevin Stefanski signed eight-year veteran Cooper Rush to step in immediately. Running an NFL offense with a single rookie quarterback feels like trying to steer a massive cruise ship with a wooden canoe paddle. Rush provides necessary stability for the active roster.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260729_cooper_rush/2026-07-29_cooper_rush_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
