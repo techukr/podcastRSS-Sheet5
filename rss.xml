@@ -5,7 +5,7 @@
 		<description><![CDATA[Le Tech Daily Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml</link>
 		<generator>Le Tech Daily Publisher</generator>
-		<lastBuildDate>Thu, 30 Jul 2026 01:44:30 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jul 2026 02:01:47 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet5/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[LeTechDaily]]></author>
 		<copyright><![CDATA[LeTechDaily]]></copyright>
@@ -712,6 +712,19 @@ Emotional Trigger: Curiosity regarding unreleased data points and insider tech s
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260729_cooper_rush/2026-07-29_cooper_rush_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 HIDDEN mortgage rate risks after Fed pause [July 2026]]]></title>
+            <description><![CDATA[<p>Inflation remains above the 2% target, keeping macroeconomic interest rates frozen. For a family trying to close on a house, this feels like watching the price tag on a dream slip out of reach every single day. Borrowers face a shrinking window before a potential September hike pushes borrowing costs back to the 7% range. Securing a rate lock immediately provides a verified shield against incoming spikes. Buyers can force monthly payments down by targeting adjustable-rate mortgages and buying interest points.</p>]]></description>
+            <guid isPermaLink="false">188ab3db-e863-4534-a398-5c48bed29ccc</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 02:01:47 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260730_current_mortgage_rates/2026-07-30_current_mortgage_rates_Audio.mp3" length="19097945" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Inflation remains above the 2% target, keeping macroeconomic interest rates frozen. For a family trying to close on a house, this feels like watching the price tag on a dream slip out of reach every single day. Borrowers face a shrinking window before a potential September hike pushes borrowing costs back to the 7% range. Securing a rate lock immediately provides a verified shield against incoming spikes. Buyers can force monthly payments down by targeting adjustable-rate mortgages and buying interest points.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260730_current_mortgage_rates/2026-07-30_current_mortgage_rates_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
